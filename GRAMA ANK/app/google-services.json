@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758860132351",
+    "project_id": "grama-ank",
+    "storage_bucket": "grama-ank.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758860132351:android:38809131d97ffe997b41ca",
+        "android_client_info": {
+          "package_name": "com.grama.angana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvPwSk7fG5x_Syrkj5wupQMNzQa1Aq0kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
